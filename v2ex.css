@@ -1,0 +1,143 @@
+#Top{
+  background-color: #006284;
+  border-bottom: 0;
+}
+
+#Top .content img{
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
+
+#Tabs{
+  background-color: #006284 !important;
+}
+
+a:link, a:visited, a:active, a.dark:link, a.dark:visited, a.dark:active{
+  color: #bdc0ba;
+}
+
+a.dark:hover{
+  color: #91989f;
+}
+
+a.top:link, a.top:visited{
+  color: #dfe1e1;
+}
+
+
+a.tab:link, a.tab:visited, a.tab:active{
+  color: #dfe1e1;
+}
+
+a.tab_current:link, a.tab_current:visited, a.tab_current:hover, a.tab_current:active, a.tab:hover{
+  color: #fff;
+  background-color: #58b2dc;
+  border-radius: 5px;
+}
+
+a.count_livid:link, a.count_livid:active{
+  background-color: #78c2c4;
+}
+
+a.count_blue:visited, a.count_green:visited, a.count_orange:visited, a.count_livid:visited{
+  background-color: #2b5f75;
+}
+
+#Wrapper{
+  background-color: #78c2c4;
+}
+
+#Main .box:nth-child(2) .inner + .cell{
+  background-color: #006284 !important;
+  border-top: 1px solid #9a9a9a;
+  border-bottom: 0;
+}
+
+#Bottom{
+  background-color: #006284;
+  border-top: 0;
+}
+
+.box{
+  background-color: #3d798e;
+  border-bottom: 0;
+}
+
+.cell{
+  border-bottom: 1px solid #78c2c4;
+}
+
+.item_title, .item_hot_topic_title{
+  text-shadow: none;
+}
+
+.header{
+  background-color: #006284;
+}
+
+.subtle{
+  background-color: #69b0ac;
+  border-left-color: #268785;
+}
+
+h1{
+  color: #dfe1e1;
+}
+
+.topic_content, .reply_content{
+  color: #fcfaf2;
+}
+
+.chevron{
+  color: #bdc0ba;
+}
+
+code{
+  background-color: #656765;
+}
+
+.highlight{
+  background: #434343;
+}
+
+.highlight .kd{
+  color: #66d9ef;
+}
+
+.highlight .k,
+.highlight .o,
+.highlight .kn{
+  color: #f92672;
+}
+
+.highlight .mi,
+.highlight .m{
+  color: #ae81ff;
+}
+
+.highlight .s1,
+.highlight .s2,
+.highlight .sd{
+  color: #e6db74;
+}
+
+.highlight .c1{
+  color: #75715e;
+}
+
+.highlight .nf{
+  color: #a6e22a;
+}
+
+.highlight .nn,
+.highlight .nv{
+  color: #fcfaf2;
+}
+
+.highlight .bp{
+  color: #9981dd;
+}
+
+.highlight .nb{
+  color: #52d9ef;
+}
